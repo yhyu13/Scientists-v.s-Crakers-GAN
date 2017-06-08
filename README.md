@@ -3,4 +3,4 @@ Science is a belief of the ignorance of experts. Crakers are those who boast and
 
 Einstein Real             |  Einstein Faked
 :-------------------------:|:-------------------------:
-<img src="https://www.danielim.com/wp-content/uploads/2014/08/alberteinstein_tuesdaysthoughts.jpg" style="width: 10px;"/> |  ![](https://images-cdn.9gag.com/photo/a7yqee2_700b.jpg)
+<img src="https://www.danielim.com/wp-content/uploads/2014/08/alberteinstein_tuesdaysthoughts.jpg" width="200" height="200"/> |  ![](https://images-cdn.9gag.com/photo/a7yqee2_700b.jpg)
