@@ -1,0 +1,50 @@
+An Introduction to Complex Adaptive Systems
+
+Let’s explore the concept of the Complex Adaptive Systems and see how this model might apply in various walks of life.
+
+To illustrate what a complex adaptive system is, and just as importantly, what it is not, let’s take the example of a “driving system” – or as we usually refer to it, a car. (I have cribbed some parts of this example from the excellent book by John Miller and Scott Page.)
+
+The interior of a car, at first glance is complicated. There are seats, belts, buttons, levers, knobs, a wheel, etc. Removing the passenger car seats would make this system less complicated. However, the system would remain essentially functional. Thus, we would not call the car interior complex.
+
+The mechanical workings of a car, however, are complex. The system has interdependent components that must all simultaneously serve their function in order for the system to work. The higher order function, driving, derives from the interaction of the parts in a very specific way.
+
+Let’s say instead of the passenger seats, we remove the timing belt. Unlike the seats, the timing belt is a necessary node for the system to function properly. Our “driving system” is now useless. The system has complexities, but they are not what we would call adaptive.
+
+To understand complex adaptive systems, let’s put hundreds of “driving systems” on the same road, each with the goal of reaching their destination within an expected amount of time. We call this traffic. Traffic is a complex system in which its inhabitants adapt to each other’s actions. Let’s see it in action.
+
+***
+
+On a popular route into a major city, we observe a car in flames on the side of the road, with firefighters working to put out the fire. Naturally, cars will slow to observe the wreck. As the first cars slow, the cars behind them slow in turn. The cars behind them must slow as well. With everyone becoming increasingly agitated, we’ve got a traffic jam. The jam emerges from the interaction of the parts of the system.
+
+With the traffic jam formed, potential entrants to the jam—let’s call them Group #2—get on their smartphones and learn that there is an accident ahead which may take hours to clear. Upon learning of the accident, they predictably begin to adapt by finding another route. Suppose there is only one alternate route into the city. What happens now? The alternate route forms a second jam! (I’m stressed out just writing about this.)
+
+Now let’s introduce a third group of participants, which must choose between jams. Predicting the actions of this third group is very hard to do. Perhaps so many people in group #2 have altered their route that the second jam is worse than the first, causing the majority of the third group to choose jam #1. Perhaps, anticipating that others will follow that same line of reasoning, they instead choose jam #2. Perhaps they stay home!
+
+What we see here are emergent properties of the complex adaptive system called traffic. By the time we hit this third layer of participants, predicting the behavior of the system has become extremely difficult, if not impossible.
+
+The key element to complex adaptive systems is the social element. The belts and pulleys inside a car do not communicate with one another and adapt their behavior to the behavior of the other parts in an infinite loop. Drivers, on the other hand, do exactly that.
+
+***
+
+Where else do we see this phenomenon? The stock market is a great example. Instead of describing it myself, let’s use the words of John Maynard Keynes, who brilliantly related the nature of the market’s complex adaptive parts to that of a beauty contest in chapter 12 of The General Theory.
+
+Or, to change the metaphor slightly, professional investment may be likened to those newspaper competitions in which the competitors have to pick out the six prettiest faces from a hundred photographs, the prize being awarded to the competitor whose choice most nearly corresponds to the average preferences of the competitors as a whole; so that each competitor has to pick, not those faces which he himself finds prettiest, but those which he thinks likeliest to catch the fancy of the other competitors, all of whom are looking at the problem from the same point of view. It is not a case of choosing those which, to the best of one’s judgment, are really the prettiest, nor even those which average opinion genuinely thinks the prettiest. We have reached the third degree where we devote our intelligences to anticipating what average opinion expects the average opinion to be. And there are some, I believe, who practice the fourth, fifth and higher degrees.
+Like traffic, the complex, adaptive nature of the market is very clear. The participants in the market are interacting with one another constantly and adapting their behavior to what they know about others’ behavior. Stock prices jiggle all day long in this fashion. Forecasting outcomes in this system is extremely challenging.
+
+To illustrate, suppose that a very skilled, influential, and perhaps lucky, market forecaster successfully calls a market crash. (There were a few in 2008, for example.) Five years later, he publicly calls for a second crash. Given his prescience in the prior crash, market participants might decide to sell their stocks rapidly, causing a crash for no other reason than the fact that it was predicted! Like traffic reports on the radio, the very act of observing and predicting has a crucial impact on the behavior of the system.
+
+Thus, although we know that over the long term, stock prices roughly track the value of their underlying businesses, in the short run almost anything can occur due to the highly adaptive nature of market participants.
+
+***
+
+This understanding helps us understand some things that are not complex adaptive systems. Take the local weather. If the Doppler 3000 forecast on the local news predicts rain on Thursday, is the rain any less likely to occur? No. The act of predicting has not influenced the outcome. Although near-term weather is extremely complex, with many interacting parts leading to higher order outcomes, it does have an element of predictability.
+
+On the other hand, we might call the Earth’s climate partially adaptive, due to the influence of human beings. (Have the cries of global warming and predictions of its worsening not begun affecting the very behavior causing the warming?)
+
+Thus, behavioral dynamics indicate a key difference between weather and climate, and between systems that are simply complex and those that are also adaptive. Failure to use higher-order thinking when considering outcomes in complex adaptive systems is a common cause of overconfidence in prediction making.
+
+***
+
+Complex Adaptive Systems are part of the Farnam Street latticework of Mental Models.
+MeasureMeasure
+

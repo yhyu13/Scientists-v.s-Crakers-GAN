@@ -1,0 +1,74 @@
+Stop Crashing Planes: Charlie Munger’s Six-Element System
+April 26, 2016 | Reading Time: 7 minutes
+Before we get to Charlie Munger, let’s chat for a minute.
+
+We’ve been noticing a problem lately that you might be familiar with or experiencing yourself: The search for wisdom not actually translating into consistently applied wisdom.
+
+You read a book, love it, put it down. You read a set of articles, love them, put them down. You’re fired up. And then, a week later, the fire is gone. The learning didn’t make it through.
+
+What the hell happened?
+
+We’ve come to call this Transmission Loss, the gap between learning and execution.
+
+The greater the loss, the less “yield” you’re actually getting from the things you learn. Transmission loss tends to be a lot lower in the most practical, repeatable areas of life: If you’re going to be a carpenter, you learn how to properly cut wood and that skill tends to stay with you. If you’re going to be a programmer, you never forget the concept of nested “If-then” statements. It’s as fundamental as breathing. If you’re a pilot, you go through routine maintenance of your skills using aircraft simulators. If you’re a surgeon, you constantly hone and improve the necessary mechanical skills to operate on your patients. These skills, and others like them, are “sticky” and “cumulative.” They’re brought up to fluency and then kept at a high level through repetitive practice. That’s why surgeons and pilots don’t kill many people, why a smart young high school student can build a program unimaginable to us 50 years ago, and why a carpenter doesn’t suddenly forget how to build a strong and stable shelf. The things you learn tend to stick to your ribs over time.
+
+But in the “soft” sciences, the kind we often write about, learning doesn’t seem to be as sticky or as cumulative. “Experts” make the same mistakes as “novices.” We learn concepts from The Psychology of Human Misjudgment, or the power of compound interest, or the power of building seamless webs of trust, fall in love with them, and then continue to behave the same way we did before learning them.
+
+Investors can be the worst at this: They learn about the dangers of leverage and then invest half their portfolio in debt-ridden high-fliers, or learn about the shortcomings of a metric like EBITDA, but go on using it merrily a week later. Many of us have known a general manager who claimed to love the teachings of Peter Drucker or Warren Bennis or whoever else, but carried on treating people with dictatorial zeal, shocked to see them unmotivated or unproductive. And how many compensation plans do we deal with that totally ignore the basics of human nature? Yet, I strongly suspect their creators were familiar with the concept and principles of personal incentives.
+
+It seems that in these “softer” fields, our actions are much harder to match with our education. We don’t always think of it this way, but some of the “surprises” that befall people are the equivalent of a trained pilot pulling back on the stick and expecting the nose of the plane to dive down.
+
+***
+
+It’s tempting to think of the main difference between these skills as complexity. As in, investing money or managing sales people is more complex than flying an airplane or learning to play chess at a high level. That’s partially true and partially not true — flying a plane is obviously not a simple, easily learned task, but at least the laws of physics are invariant.
+
+The largest difference I can see between those sticky, cumulative skills and the stuff that regresses easily is that the former have a clear set of fixed/knowable rules and a process for maintaining fluency, while the latter seemingly do not.
+
+Once a pilot has learned the ins and outs of flying a 747, the probability of a mistake is exceedingly low, assuming he keeps up his practice and training.
+
+There’s a strong element of If I do this, then that will happen, and that element tends to hold over time. The main risk is that your skills will attenuate over time, which can be solved by a skill maintenance/improvement routine like an aircraft simulator or an M&M conference for medical professionals. You must keep up with new knowledge, sure, but the new stuff tends to be additive, not revolutionary. The fundamentals of building a bridge don’t change a whole lot.
+
+In the “human realm”, not only do we lack knowledge of the “rules” by which to operate, but we have no sense of how to stay at the top of our game. Consequently, the equivalent of the highly-trained pilots in the fields of investing, sociology research, business management, sales, economics, elementary education, PR/marketing, and many other soft fields crash the plane time and time again. Any casual reading of the news will provide plenty of examples.
+
+So, if you’re a “softie” like most of us, how do you raise your standard? That’s where Munger comes in.
+
+***
+
+Charlie Munger addressed the problem in a 50th Reunion speech to his Harvard Law School Class in 1998. What he wanted to know was: How do we get the decision making skills of “broad scale” thinkers — managers, investors, lawyers, negotiators, leaders, politicians, economists, etc. — up to the ability of “narrow scale” thinkers like pilots, engineers, and surgeons?
+
+He called it a Strict Six-Element System, pulled from pilot education. (Berkshire Hathaway owns the largest flight school in the world – FlightSafety International.)
+
+Here it is:
+
+1) His formal education is wide enough to cover practically everything useful in piloting.
+
+2) His knowledge of practically everything needed by pilots is not taught just well enough to enable him to pass one test or two; instead, all of his knowledge is raised to practice-based fluency, even in handling two or three intertwined hazards at once.
+
+3) Like any good algebraist, he is made to think sometimes in a forward fashion and sometimes in reverse; and so he learns when to concentrate mostly on what he wants to happen and also when to concentrate mostly on avoiding what he does not want to happen.
+
+4) His training time is allocated among subjects so as to minimize damage from his later malfunctions; and so what is most important in his performance gets the most training coverage and is raised to the highest fluency levels.
+
+5) “Checklist” routines are always mandatory for him
+
+6) Even after original training he is forced into a special knowledge-maintenance routine: regular use of the aircraft simulator to prevent atrophy through long disuse of skills needed to cope with rare and important problems.
+
+The need for this clearly correct six-element system, with its large demands in a narrow-scale field where stakes are high, is rooted in the deep structure of the human mind. Therefore, we must expect that the education we need for broad scale problem-solving will keep all these elements but with awesomely expanded coverage for each element. How could it be otherwise?
+Charlie’s system for those of us in softer realms than piloting, rooted in the deep structure of the human mind, is to develop a multi-disciplinary synthesis and to use it regularly, thinking through problems forwards and backwards, applying mental checklists whenever possible. This means learning the truly important doctrines from the main disciplines and how to synthesize them. It’s only once we assimilate all the tools we need that we stop making so many mistakes.
+
+The question of how is clearly the toughest one. Even if we have the will, what is the way? We would argue that practical worldly wisdom falls into a few major buckets — these act as the closest proxy of the fixed/knowable rules we discussed above:
+
+Numeracy. The ability to understand and think in numbers and properly quantify. This would included a basic understanding of statistics and its limitations, of probability thinking and its limitations, and basic numerical and quantitative thinking applied to the real world.
+Human nature. The ability to understand the true nature of the people around you, and of yourself, with heavy consideration given to human psychology.
+History. The knowledge of what’s come before you in the world.
+Natural science. An understanding of the physical world around us.
+Business. An understanding of commerce and finance, concepts we must all regularly deal with unless we plan to live in a monastery.
+Second-level thinking. The ability to think beyond the “first step” and think through consequences. And then what?
+These six buckets have humongous areas of overlap, but we find them a useful way to group our various forms of knowledge and file them away. You may lump and organize in a different fashion. And of course, not included here are the narrow “technical” skills — how to write code, how to read an x-ray, and so on.
+
+But most important is that we learn to file and synthesize with these buckets, because the world doesn’t respect artificial, if necessary, boundaries. Going back to our discussion above, it’s not just the fundamentals of bridge building that don’t change a whole lot: with “softer” concepts like human nature, business principles, lessons from history and quantitative filtering, the ideas are just as invariant.
+
+That leads us to a basic prescription: Read broadly and constantly across the fundamental areas of worldly knowledge, and practice synthesizing with them on a daily basis. Don’t shy away from what you’re not familiar with, attack it instead. Use the buckets as a guide to figure out what you need more of. And as you develop an understanding of the world, constantly seek to file away and apply what you’ve learned, both directly and by studying others vicariously.
+
+Munger is clear also on the importance of explaining things in the most fundamental way possible — it’s through the search for more and more fundamental explanations that we improve our filing system. If you’re using a concept from physics, attribute it to physics. If you’re using a concept from chemistry (say, runaway feedback), call it chemistry. If you’re using an economics concept like opportunity cost, file it that way. Cut through faddy, new-age terms and concepts wherever possible in a search for an older, more fundamental way of explaining something. (See: Every management book written in the past twenty years, at least.) Through the process of learning, reducing, filing, and applying, you’ll eventually feel like an amateur golfer who’s finally taken a few thousand good swings: Hey, this kinda feels comfortable!
+
+It isn't easy, it's hard. It takes some will and some discipline. But don’t forget to give yourself a break. Don’t worry about achieving this overnight. Just get 5% better every year. That’s plenty to leave your old self in the dust.
